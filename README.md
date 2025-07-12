@@ -1,6 +1,13 @@
 # Mobile Sales Dashboard  
 An interactive dashboard in Power BI for exploring mobile phone sales across months, brands, cities, and payment methods.
 
+
+## 📊 Live Power BI Dashboard  
+The dashboard is published online and publicly accessible:  
+**View the live dashboard →**https://app.powerbi.com/view?r=eyJrIjoiODc5YzE5OWYtMzdiNC00MGJjLTk0MjAtZWI0NDg5MjBlNzVhIiwidCI6IjA1ZTRkZmU4LTlhMzctNDBiMS1iZTEwLTI2Mjg0NDc4OWM3MCJ9  
+
+
+
 ## Purpose  
 - Provide real-time visibility into key KPIs  
 - Identify top-performing cities and models  
